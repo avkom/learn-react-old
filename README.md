@@ -1,2 +1,2 @@
 # learn-react
-An education project to learn react.
+An educational project to learn react.
